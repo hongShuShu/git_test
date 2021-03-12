@@ -20,5 +20,9 @@
     NSLog(@"1");
 }
 
+- (void)test_2 {
+    NSLog(@"提交2");
+}
+
 
 @end
